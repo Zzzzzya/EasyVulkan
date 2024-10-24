@@ -1,0 +1,27 @@
+# BasedOnStyle: Google
+BasedOnStyle: Microsoft
+IndentWidth: 4
+AllowShortBlocksOnASingleLine: true
+BraceWrapping:
+  AfterControlStatement: false
+  AfterEnum: false
+  AfterFunction: false
+  AfterNamespace: false
+  AfterStruct: false
+  AfterUnion: false
+  AfterExternBlock: false
+  AfterClass: false
+  AfterObjCDeclaration: false
+  AfterExternBlock: false
+  AfterNamespace: false
+  AfterUnion: false
+  AfterStruct: false
+  AfterEnum: false
+  AfterExternBlock: false
+  AfterNamespace: false
+  AfterStruct: false
+  AfterUnion: false
+  AfterExternBlock: false
+  AfterNamespace: false
+  AfterStruct: false
+  AfterUnion: false

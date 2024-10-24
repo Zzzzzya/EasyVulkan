@@ -1,0 +1,13 @@
+{
+  "dependencies": [
+    "fmt",
+    "glm",
+    "glfw3",
+    "assimp",
+    "imgui",
+    "stb",
+    "glew",
+    "vulkan",
+    "spdlog"
+  ]
+}
