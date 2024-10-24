@@ -19,5 +19,9 @@
     },
     "cmake.configureSettings": {
         "CMAKE_TOOLCHAIN_FILE": "D:/Files/Code/vcpkg/vcpkg/scripts/buildsystems/vcpkg.cmake"
-    }
+    },
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
 }
