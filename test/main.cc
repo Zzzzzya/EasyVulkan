@@ -1,7 +1,16 @@
-#include <iostream>
-using namespace std;
-int main()
-{
-    cout << "Hello, World!" << endl;
+#include "Base/glfw/glfwGeneral.hpp"
+
+int main() {
+    if (!InitializeWindow({1280, 1000})) {
+        return -1;
+    }
+
+    while (!glfwWindowShouldClose(pWindow)) {
+        glfwPollEvents();
+        TitleFps();
+    }
+
+    TerminateWindow();
+
     return 0;
 }
